@@ -1,0 +1,225 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "i need help",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Math_HW",
+                    "slots": [],
+                    "samples": [
+                        "Help with mathematics homework",
+                        "Assistance with mathematics homework is needed",
+                        "I need help with my mathematics homework",
+                        "i dont know how to do a math homework",
+                        "i dont know how to write my homework",
+                        "i dont know how to do math",
+                        "i don't know how to do calculus homework",
+                        "i want to know how to do calculus Homework",
+                        "i dont see how to do my math homework",
+                        "How do I do my calculus homework",
+                        "I don't know how to do my calculus homework"
+                    ]
+                },
+                {
+                    "name": "Physics_HW",
+                    "slots": [],
+                    "samples": [
+                        "Phyiscs homework is hard I need assisitance",
+                        "Assistance is needed with physics homework",
+                        "Assistance with physics homework",
+                        "Homework help with physics",
+                        "Help me with physics Homework",
+                        "I need assistance with my physics homework",
+                        "I need assistance in phyics homework",
+                        "Physics Homework help",
+                        "Physics Homework is killing me help me",
+                        "I need help with Physics Homework"
+                    ]
+                },
+                {
+                    "name": "Math_Test",
+                    "slots": [],
+                    "samples": [
+                        "I failed my last mathematics exam I need help preparing for the next one",
+                        "I failed my last calculus exam and need to prepare for the upcoming one",
+                        "I failed my last calc exam and need to prepare for the upcoming one",
+                        "I failed my last calculus test and need to prepare for the upcoming one",
+                        "I failed my last calc test and need to prepare for the upcoming one",
+                        "I need help studying for my calculus exam",
+                        "I need help studying for my calc exam",
+                        "Assistance is needed studying for my calculus exam",
+                        "Assistance is needed studying for my calc exam",
+                        "Assistance is needed studying for my calculus test",
+                        "Assistance is needed studying for my calc test",
+                        "I need help studying for my math test",
+                        "I need help studying for my Calculus test",
+                        "I need help studying for my calc test"
+                    ]
+                },
+                {
+                    "name": "Physics_Test",
+                    "slots": [],
+                    "samples": [
+                        "I need help studying for my physics ",
+                        "Assistance with physics test help",
+                        "Assistance with physics exam prep",
+                        "Assistance studying for my physics exam",
+                        "Assistance with studying for my physics test",
+                        "I failed my last physics test I need help studying for the next one",
+                        "Assistance with physics exam",
+                        "Physics test assistance",
+                        "I need help studying for my physics exam",
+                        "I need help studying for my physics test"
+                    ]
+                },
+                {
+                    "name": "Chemistry_test",
+                    "slots": [],
+                    "samples": [
+                        "I need assistance with my chemsitry test next week",
+                        "I failed my last chemistry test I need help preparing for my next one",
+                        "I failed my last chem test I need help preparing for my next one",
+                        "I need help studying for my chemistry exam",
+                        "Test help for chemistry",
+                        "Exam help for chemistry",
+                        "I need help in studying for my chemistry exam",
+                        "I need help preparing for my chemistry exam",
+                        "i need help preparing for my chemistry test",
+                        "I need help preparing for my chem test",
+                        "I need help studying for my Chemistry test"
+                    ]
+                },
+                {
+                    "name": "Chemsitry_HW",
+                    "slots": [],
+                    "samples": [
+                        "Assistance is very much needed wih my chemistry homework",
+                        "Assistance is very much needed with my chem homework",
+                        "I really need help with my chem homework",
+                        "I really need help with my chemistry homework",
+                        "Assistance with chemistry homework",
+                        "Assistance with chem homework",
+                        "I need assistance with my chemistry homework",
+                        "I need assistance with my chem homework",
+                        "I need help doing my chem homework",
+                        "I need help with my chem homework"
+                    ]
+                },
+                {
+                    "name": "FAFSA_Financial_aid",
+                    "slots": [],
+                    "samples": [
+                        " Financial aid assistance is needed",
+                        "I have no idea where to go with Financial aid help",
+                        " Financial aid help is grealy needed",
+                        " Financial aid help is needed",
+                        "I need Financial aid help",
+                        "I have no idea how to fill a FAFSA out",
+                        "I need help filling FAFSA out",
+                        "I really need FAFSA help",
+                        "FAFSA help",
+                        "FAFSA help is needed",
+                        "How do you fill out a FAFSA",
+                        "I have no idea how to fill out my FAFSA",
+                        "I greatly need help filling out my FAFSA",
+                        "I really need help filling out my FAFSA",
+                        "assistance is needed filling out my FAFSA",
+                        "I need help filling out my FAFSA"
+                    ]
+                },
+                {
+                    "name": "Writing_Center",
+                    "slots": [],
+                    "samples": [
+                        "I have no idea how to write a lab report",
+                        "I have no idea how to write an essay",
+                        "i need help with creating a lab report",
+                        "I need help on creating a essay",
+                        "I need assistance on writing a essay",
+                        "I need assistance on writing a lab report",
+                        "I am lost on how to write a lab report",
+                        "I am lost on how to write an essay",
+                        "lab report assistance",
+                        "essay help",
+                        "I need help writing a lab report",
+                        "Lab report help",
+                        "Essay assistance",
+                        "I have an essay due which I need assistance writing",
+                        "I greatly need assistance writing my essay",
+                        "Assistance is needed writing my essay",
+                        "I need assistance in writing my essay",
+                        "I need help writing my essay"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "CityNameAlpha",
+                    "values": [
+                        {
+                            "id": "LA",
+                            "name": {
+                                "value": "Los Angeles"
+                            }
+                        },
+                        {
+                            "id": "CHI",
+                            "name": {
+                                "value": "Chicago"
+                            }
+                        },
+                        {
+                            "id": "SEA",
+                            "name": {
+                                "value": "Seattle"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "CityNameAlphaElements",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "1"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
