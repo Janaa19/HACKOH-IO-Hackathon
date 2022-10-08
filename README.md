@@ -1,12 +1,20 @@
 # HACKOH-IO-Hackathon
 
 ## Progress Log
-# Day 1
-1PM: 
+### Day 1
+12 PM: 
 
-2PM:
+3 PM:
 
-3PM:
+6 PM:
 
-# Day 2
+9 PM:
 
+### Day 2
+12 AM:
+
+3 AM:
+
+6 AM:
+
+9 AM:
