@@ -1,10 +1,13 @@
 # HACKOH-IO-Hackathon
 
 ## Inspiration
+We were inspired by the AWS Challenge and decided to complete that one using the AWS Lambda function, EC2 Console Port, DynamoDB, and the Alexa System.
 
 ## What it Does
 
+
 ## How We Build It
+We built this project using the resources provided by AWS because part of the challenge was to implement a few of their frameworks/databases. The languages that were used were Python and Javascript, and the frameworks/databases AWS Lambda Function, EC2 Console Port, and DynamoDB.
 
 ## Challenges We Ran Into
 
