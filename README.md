@@ -1,7 +1,7 @@
 # HACKOH-IO-Hackathon
 
 ## Inspiration
-We were inspired by the AWS Challenge and decided to complete that one using the AWS Lambda function, EC2 Console Port, DynamoDB, and the Alexa System.
+We were inspired by the AWS Challenge and decided to complete that challenge using the AWS Lambda function, EC2 Console Port, DynamoDB, and the Alexa System.
 
 ## What it Does
 It takes user input if students are in need of assistance in certain classes then it provides resources for them through the Ohio State University.
