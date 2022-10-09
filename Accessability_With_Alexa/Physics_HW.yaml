@@ -1,0 +1,20 @@
+{
+  "Accessability_With_Alexa": {
+    "S": "Physics_HW"
+  },
+  "info1": {
+    "S": "The College of Arts and Sciences offers free tutoring that could help you with your homework"
+  },
+  "info2": {
+    "S": "There are two opportunities on campus for physics tutoring. The Department of Physics hosts tutoring sessions in Smith Lab, rooms 1011A and 1011B,  The Younkin Success Center also hosts tutoring sessions for physics"
+  },
+  "info3": {
+    "S": "Ok. Here are the websites for the Department of Physics and the Younkin Success Center. https://younkinsuccess.osu.edu/ and https://physics.osu.edu"
+  },
+  "question1": {
+    "S": "Would you like to hear about these options?"
+  },
+  "question2": {
+    "S": "Would you like to hear more about those options?"
+  }
+}
