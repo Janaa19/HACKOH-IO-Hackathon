@@ -1,1 +1,8 @@
 url = https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?connType=standard&instanceId=i-05c8cb6c98ad9ce33&osUser=ec2-user&region=us-east-1&sshPort=22#/
+Instance ID : i-05c8cb6c98ad9ce33
+Public IP address : 3.82.22.102
+Username : ec2-user
+Serial port : ttyS0
+
+chmod 400 aws_hackathon.pem
+ec2-3-82-22-102.compute-1.amazonaws.com
