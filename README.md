@@ -1,5 +1,18 @@
 # HACKOH-IO-Hackathon
 
+## Inspiration
+
+## What it Does
+
+## How We Build It
+
+## Challenges We Ran Into
+
+## Accomplishments That We're Proud Of
+
+## What We Learned
+
+## What's Next
 ## Progress Log
 ### Day 1
 12 PM: 
