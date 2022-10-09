@@ -1,0 +1,20 @@
+{
+  "Accessability_With_Alexa": {
+    "S": "Physics_Test"
+  },
+  "info1": {
+    "S": "I'm sorry to hear that. The College of Arts and Sciences offers free tutoring that could help you raise your scores"
+  },
+  "info2": {
+    "S": "The Department of Physics hosts tutoring sessions in Smith Lab, rooms 1011A and 1011B. You can find tutoring schedules posted outside the rooms. The Younkin Success Center also hosts tutoring sessions for physics most evenings"
+  },
+  "info3": {
+    "S": "Ok. Here are the websites for the Department of Physics and the Younkin Success Center"
+  },
+  "question1": {
+    "S": "Would you like to hear about those options?"
+  },
+  "question2": {
+    "S": "Would you like to know more about these options?"
+  }
+}
